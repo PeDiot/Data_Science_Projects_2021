@@ -9,5 +9,5 @@ The main projects realized this year during my first year of Master's degree in 
     - k-Means
     - Hierarchical clustering
    - Panel data analysis on Australians' health care spending:
-    - Analyse the variables which best explain health care spending
-    - Test whether there are individual effects related to these expenses
+      - Analyse the variables which best explain health care spending
+      - Test whether there are individual effects related to these expenses
