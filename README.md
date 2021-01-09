@@ -8,6 +8,6 @@ The main projects realized this year during my first year of Master's degree in 
     - Multiple correspondence analysis
     - k-Means
     - Hierarchical clustering
-   - Panel data analysis on Australians' health care spending:
+   - Panel data analysis on Australians' health care spending (`Health_Data`):
       - Analyse the variables which best explain health care spending
       - Test whether there are individual effects related to these expenses
